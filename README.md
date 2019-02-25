@@ -1,9 +1,9 @@
-# latianGithub david radit
+# latianGithub david
 
 
 cuma coba-coba
 
-nambahin david radit
+nambahin david
 
 
-david radit
+david
